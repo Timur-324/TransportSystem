@@ -12,3 +12,4 @@
 /home/t324/Desktop/Project/TransportSystem/Client/TransportClient/obj/Debug/net8.0/TransportClient.pdb
 /home/t324/Desktop/Project/TransportSystem/Client/TransportClient/obj/Debug/net8.0/TransportClient.genruntimeconfig.cache
 /home/t324/Desktop/Project/TransportSystem/Client/TransportClient/obj/Debug/net8.0/ref/TransportClient.dll
+/home/t324/Desktop/Project/TransportSystem/Client/TransportClient/obj/Debug/net8.0/TransportClient.sourcelink.json
