@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Client/">
+    <Project Path="Client/TransportClient/TransportClient.csproj" />
+  </Folder>
+  <Folder Name="/Server/">
+    <Project Path="Server/TransportServer/TransportServer.csproj" />
+  </Folder>
+</Solution>

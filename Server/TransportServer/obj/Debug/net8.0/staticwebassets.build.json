@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nb+2E8MbzxTkhycstoMM+jWsMTqwH/yhS1Jc77y5Nec=",
+  "Source": "TransportServer",
+  "BasePath": "_content/TransportServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

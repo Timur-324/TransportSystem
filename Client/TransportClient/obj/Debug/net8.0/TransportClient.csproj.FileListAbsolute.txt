@@ -1,0 +1,14 @@
+/home/t324/Desktop/Project/TransportSystem/Client/TransportClient/bin/Debug/net8.0/TransportClient
+/home/t324/Desktop/Project/TransportSystem/Client/TransportClient/bin/Debug/net8.0/TransportClient.deps.json
+/home/t324/Desktop/Project/TransportSystem/Client/TransportClient/bin/Debug/net8.0/TransportClient.runtimeconfig.json
+/home/t324/Desktop/Project/TransportSystem/Client/TransportClient/bin/Debug/net8.0/TransportClient.dll
+/home/t324/Desktop/Project/TransportSystem/Client/TransportClient/bin/Debug/net8.0/TransportClient.pdb
+/home/t324/Desktop/Project/TransportSystem/Client/TransportClient/obj/Debug/net8.0/TransportClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/t324/Desktop/Project/TransportSystem/Client/TransportClient/obj/Debug/net8.0/TransportClient.AssemblyInfoInputs.cache
+/home/t324/Desktop/Project/TransportSystem/Client/TransportClient/obj/Debug/net8.0/TransportClient.AssemblyInfo.cs
+/home/t324/Desktop/Project/TransportSystem/Client/TransportClient/obj/Debug/net8.0/TransportClient.csproj.CoreCompileInputs.cache
+/home/t324/Desktop/Project/TransportSystem/Client/TransportClient/obj/Debug/net8.0/TransportClient.dll
+/home/t324/Desktop/Project/TransportSystem/Client/TransportClient/obj/Debug/net8.0/refint/TransportClient.dll
+/home/t324/Desktop/Project/TransportSystem/Client/TransportClient/obj/Debug/net8.0/TransportClient.pdb
+/home/t324/Desktop/Project/TransportSystem/Client/TransportClient/obj/Debug/net8.0/TransportClient.genruntimeconfig.cache
+/home/t324/Desktop/Project/TransportSystem/Client/TransportClient/obj/Debug/net8.0/ref/TransportClient.dll

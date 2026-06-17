@@ -1,0 +1,29 @@
+services:
+  postgres:
+    image: postgres:14
+    environment:
+      POSTGRES_DB: transportdb
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: password
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U admin -d transportdb"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  server:
+    build:
+      context: .
+      dockerfile: Server/TransportServer/Dockerfile
+    ports:
+      - "5000:8080"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      ConnectionStrings__DefaultConnection: "Host=postgres;Database=transportdb;Username=admin;Password=password"
+
+volumes:
+  postgres_data:
